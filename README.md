@@ -4,3 +4,4 @@ Backend using [Gin](https://github.com/gin-gonic/gin), and uses [Google's UUID m
 
 ## Usage Instructions
 1. `go run .`
+2. Make API calls to `http://localhost:8080`
